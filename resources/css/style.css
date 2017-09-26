@@ -2,10 +2,9 @@ html {
 	color: white;
 	background-color: black;
 	text-align: center;
-	font-family: Verdana;
+	font-family: Verdana, sans-serif;
 }
-.title {
-	font-weight: normal;
+h1 {
 	font-size: 50px;
 }
 .link {
@@ -13,7 +12,7 @@ html {
 	font-size: 16px;
 }
 .heading {
-	font-weight: 300;
+	font-weight: 300px;
 	font-size: 42px;
 }
 .content {
@@ -22,5 +21,4 @@ html {
 }
 .footer {
 	text-align: right;
-	color: gray;
 }
